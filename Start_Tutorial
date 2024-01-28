@@ -4,6 +4,6 @@ Wichtig: Zuerst die Datei Entpacken
 
 1.Python installieren https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
 2.Cmd in die Suchleiste eingeben. 
-3.In der eingabeauforderung (cmd) "pip install selenium pip install pynput pip install Controller pip install colorama" eingeben.
+3.In der eingabeauforderung (cmd) "pip install selenium pip install pynput pip install Controller pip install colorama pip install PyGetWindow" eingeben.
 4.TypeHack.py starten
 5.Wenn man im Startscreen ist mit der Level Auswahl, Level auswählen und warten.
