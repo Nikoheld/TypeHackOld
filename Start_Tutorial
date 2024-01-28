@@ -5,14 +5,5 @@ Wichtig: Zuerst die Datei Entpacken
 1.Python installieren https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
 2.Cmd in die Suchleiste eingeben. 
 3.In der eingabeauforderung (cmd) "pip install selenium pip install pynput pip install Controller pip install colorama" eingeben.
-4.TypeHack.py bearbeiten (Rechtsklick)
-5.Code zur stelle mit 
-"input_element.send_keys("E-Mail")"
-"input_element.send_keys("Passwort" + Keys.ENTER)"
-6.Und Das E-Mail mit eurer E-Mail ersetzen und Passwort genau das gleiche. "" Im code lassen
-
-7.ctrl + s drücken zum speichern.
-8.TypeHack.py starten
-9.Wenn man im Startscreen ist mit der Level Auswahl, Level auswählen und warten.
-
-Schritt 1-7 muss man nur 1mal machen.
+4.TypeHack.py starten
+5.Wenn man im Startscreen ist mit der Level Auswahl, Level auswählen und warten.
